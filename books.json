@@ -1,0 +1,35 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "authors": [
+            "F. Scott Fitzgerald"
+        ],
+        "isbn": "9780743273565",
+        "year": 1925,
+        "price": 10.99,
+        "quantity": 3,
+        "lent_to": null
+    },
+    {
+        "title": "1984",
+        "authors": [
+            "George Orwell"
+        ],
+        "isbn": "9780451524935",
+        "year": 1949,
+        "price": 9.99,
+        "quantity": 5,
+        "lent_to": "John Doe"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "authors": [
+            "Harper Lee"
+        ],
+        "isbn": "9780061120084",
+        "year": 1960,
+        "price": 7.99,
+        "quantity": 2,
+        "lent_to": null
+    }
+]
